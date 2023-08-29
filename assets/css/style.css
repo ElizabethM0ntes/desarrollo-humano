@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif !important;
+}
+
+/* BG LAOUT */
+#__layout{
+    background-color:#121212;
+}
+/* CONTENEDOR */
+.conteiner-contenido{
+    padding-block: 28px;
+}
+
+/* TITULO */
+.v-application .display-2 {
+    padding-bottom: 3rem;
+    color: #853c59;
+}
+
+
+/* COLOR DE CHECK */
+.v-application .primary--text {
+    color:  #853c59!important;
+    caret-color:  #853c59!important;
+}
+.add-text{
+    font-size: 28px;
+    /* text-align: center; */
+    color: #853c59!important;
+    padding-inline: 16px;
+}
+/* BOTON AÑADIR AÑO */
+.v-application .primary {
+    background-color: #853c59!important;
+    border-color: #8a3557 !important;
+}
+
+.theme--dark.v-icon {
+    color: #853c59!important;
+}
+
+/* COLOR DE LETRA DE LAS V-CARD */
+.theme--dark.v-card {
+    color: #7C6550!important;
+}
+
+/* TITULOS DE TABLA */
+.theme--dark.v-data-table > .v-data-table__wrapper > table > thead > tr > th {
+    color: #7C6550!important;
+}
